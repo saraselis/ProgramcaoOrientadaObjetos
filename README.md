@@ -1,10 +1,5 @@
 <h1 align="center">ProgramacaoOrientadaObjetos 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/saraselis" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Python&message=POO&color=brightgreengreen&style=for-the-badge&logo=Python"/>
-  </a>
-</p>
+
 
 Repositório desenvolvido durante a disciplina de Programação Orientado à Objetos do curso de Engenharia de Computação.
 
@@ -25,6 +20,13 @@ Repositório desenvolvido durante a disciplina de Programação Orientado à Obj
 ```sh
 sudo apt install python3-pip
 ```
+
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://twitter.com/saraselis" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Python&message=POO&color=brightgreengreen&style=for-the-badge&logo=Python"/>
+  </a>
+</p>
 
 ### Autora 
 
