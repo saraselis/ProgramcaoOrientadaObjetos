@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Repositório desenvolvido durante a disciplina de Programação Orientado à Objetos do curso de Engenharia de Computação.
+Repositório desenvolvido durante a disciplina de Programação Orientado à Objetos do curso de Engenharia de Computação.
 
 > Status do Projeto: Concluído :heavy_check_mark:
 
